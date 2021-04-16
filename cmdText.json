@@ -1,0 +1,4 @@
+{
+    "ncu" : "verifica la version de lo quetes",
+    "ncu -u": "actualiza los paquetes package.json"
+}
